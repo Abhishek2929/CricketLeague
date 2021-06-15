@@ -1,0 +1,62 @@
+body{
+  font-family: 'Noto Serif JP', serif;
+}
+
+
+h1{
+  padding-top: 50px;
+}
+
+#matches{
+  text-align: center;
+    background-color:#F5FCFF;
+
+}
+
+#highlights{
+  text-align: center;
+  padding-left: 25%;
+  padding-right: 25%;
+    background-color: #F5FCFF;
+    padding-bottom: 3%;
+}
+
+
+
+th, td {
+  padding: 15px;
+}
+
+table {
+  border-spacing: 5px;
+
+}
+
+
+.press-logo{
+  width: 75%;
+  margin: 20px 20px 50px;
+
+}
+
+.vs{
+  padding-top: 25%;
+}
+
+.ro-bo{
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.match-link{
+  font-size: 2rem;
+  color: #000000;
+}
+
+#footer{
+  text-align: center;
+  background-color:  #1b1e21	;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
