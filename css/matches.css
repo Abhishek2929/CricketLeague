@@ -7,9 +7,14 @@ h1{
   padding-top: 50px;
 }
 
+
+
+
 #matches{
   text-align: center;
     background-color:#F5FCFF;
+   padding-left: 25%;
+   padding-right: 25%;
 
 }
 
@@ -22,6 +27,11 @@ h1{
 }
 
 
+table, td , th {
+  border: solid black;
+  border-collapse: collapse;
+}
+
 
 th, td {
   padding: 15px;
@@ -32,6 +42,15 @@ table {
 
 }
 
+.first-row{
+   background-color:  #01579b;
+   color: #fff;
+
+}
+
+.third-row{
+  background-color: #b3e5fc;
+}
 
 .press-logo{
   width: 75%;
@@ -47,7 +66,7 @@ table {
   border: 1px solid black;
   margin-top: 50px;
   margin-bottom: 50px;
-  background-color: #92DFF3;
+    background-color: #92DFF3;
 }
 
 .match-link{
